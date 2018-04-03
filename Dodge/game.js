@@ -1,13 +1,10 @@
 var isGameOver;
 var enemy, enemy2;
 
-
-
-
-
-
 function setup() {
+
     createCanvas(600, 400);
+
     player = createSprite(width/2, height-25, 50, 50);
     enemy = createSprite(width/1, random(5, height-5), 30,30);
     enemy2 = createSprite(width/1, random(5, height-5), 30,30);
@@ -31,9 +28,7 @@ function draw(){
         if (enemy2.overlap(player)) {
             isGameOver = true;
         }
-        if (enemy3.overlap(player)){
-            isGameOver = true;
-        }
+        
         
         
     }
