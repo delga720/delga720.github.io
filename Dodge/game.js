@@ -8,6 +8,7 @@ function setup() {
     player = createSprite(width/2, height-25, 50, 50);
     enemy = createSprite(width/1, random(5, height-5), 30,30);
     enemy2 = createSprite(width/1, random(5, height-5), 30,30);
+    enemy3 = createSprite (width/1, random(5, height-5), 30,30):
     isGameOver = false;
     enemy.rotationSpeed = 4.0;
     enemy2.rotationSpeed = 4.0;
