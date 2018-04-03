@@ -1,5 +1,5 @@
 var isGameOver;
-var enemy, enemy2;
+var enemy, enemy2, enemy3;
 
 function setup() {
 
@@ -11,6 +11,7 @@ function setup() {
     isGameOver = false;
     enemy.rotationSpeed = 4.0;
     enemy2.rotationSpeed = 4.0;
+    enemy3.rotationSpeed = 4.0;
 }
 
 function draw(){
@@ -28,7 +29,10 @@ function draw(){
         if (enemy2.overlap(player)) {
             isGameOver = true;
         }
+        if (enemy3.overlap(player)) {
+            isGameOver = true;
         
+        }
         
         
     }
@@ -59,8 +63,10 @@ function draw(){
         enemy2.position.x = width;
         enemy2.position.y = random(5, height-5)
     }
-    if (enemy.overlap(player)) {
-        gameOver();
+    enemy3.position.x = enemy3.position.x -2.5;
+    if (enemy3.position.x <0){
+        enemy3.position.x = width;
+        enemy3.position.y = random (5, height-5)
     }
     
 }
