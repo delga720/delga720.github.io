@@ -1,0 +1,829 @@
+[
+  {
+    "name": "Steel Hull",
+    "strength": 105,
+    "mass": 3625,
+    "colour": "#827C7C",
+    "isHull": true,
+    "Cost": 6988
+  },
+  {
+    "name": "Steel",
+    "strength": 100,
+    "mass": 3345,
+    "colour": "#D8D8D8",  
+    "Cost": 5909
+  },
+  {
+    "name": "Aluminium Hull",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#A0A0A0",
+	"isHull": true,
+    "Cost": 6315
+  },
+  {
+    "name": "AH_Red",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#B72619",
+    "isHull": true,
+    "Cost": 6315
+  },
+   {
+    "name": "AH_Yellow",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#C68700",
+    "isHull": true,
+    "Cost": 6315
+  },
+  {
+    "name": "AH_Green",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#478900",
+    "isHull": true,
+    "Cost": 6315
+  },
+  {
+    "name": "AH_Blue",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#087684",
+    "isHull": true,
+    "Cost": 6315
+  },
+  {
+    "name": "AH_Blue2",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#1D2F68",
+    "isHull": true,
+    "Cost": 6315
+  },
+  {
+    "name": "AH_Pink",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#A50B93",
+    "isHull": true,
+    "Cost": 6315
+  },
+  {
+    "name": "AH_Orange",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#C64F00",
+    "isHull": true,
+    "Cost": 6315
+  },
+  {
+    "name": "Aluminium",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#CAC9C9",
+    "Cost": 6315
+  },
+  {
+    "name": "A_Red",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#D82A1E",
+    "Cost": 6315
+  },
+  {
+    "name": "A_Yellow",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#E29300",
+    "Cost": 6315
+  },
+  {
+    "name": "A_Green",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#60B500",
+    "Cost": 6315
+  },
+  {
+    "name": "A_Blue",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#0EC2CC",
+    "Cost": 6315
+  },
+  {
+    "name": "A_Blue2",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#2E4CA5",
+    "Cost": 6315
+  },
+  {
+    "name": "A_Pink",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#DB0FC3",
+    "Cost": 6315
+  },
+  {
+    "name": "A_Orange",
+    "strength": 72,
+    "mass": 2615,
+    "colour": "#FF7100",
+    "Cost": 6315
+  },
+  {
+    "name": "Iron Hull",
+    "strength": 90,
+    "mass": 3457,
+    "colour": "#404050",
+    "isHull": true,
+    "Cost": 367
+  },
+  {
+    "name": "Copper Hull",
+    "strength": 87,
+    "mass": 3750,
+    "colour": "#6f6961",
+    "isHull": true,
+    "Cost": 1980
+  },
+  {
+    "name": "Copper",
+    "strength": 56,
+    "mass": 2816,
+    "colour": "#a19b94",
+    "Cost": 345
+  },
+  {
+    "name": "CH_Blue",
+    "strength": 87,
+    "mass": 3750,
+    "colour": "#158db0",
+    "isHull": true,
+    "Cost": 1980
+  },
+  {
+    "name": "CH_Blue2",
+    "strength": 87,
+    "mass": 3750,
+    "colour": "#0f1ab0",
+    "isHull": true,
+    "Cost": 1980
+  },
+  {
+    "name": "CH_Red",
+    "strength": 87,
+    "mass": 3750,
+    "colour": "#920d0d",
+    "isHull": true,
+    "Cost": 1980
+  },
+  {
+    "name": "CH_Yellow",
+    "strength": 87,
+    "mass": 3750,
+    "colour": "#9f9918",
+    "isHull": true,
+    "Cost": 1980
+  },
+  {
+    "name": "CH_Green",
+    "strength": 87,
+    "mass": 3750,
+    "colour": "#096b1a",
+    "isHull": true,
+    "Cost": 1980
+  },
+  {
+    "name": "CH_Orange",
+    "strength": 87,
+    "mass": 3750,
+    "colour": "#ab732d",
+    "isHull": true,
+    "Cost": 1980
+  },
+  {
+    "name": "CH_Pink",
+    "strength": 87,
+    "mass": 3750,
+    "colour": "#b328ce",
+    "isHull": true,
+    "Cost": 1980
+  },
+  {
+    "name": "C_Blue",
+    "strength": 56,
+    "mass": 2816,
+    "colour": "#0ab0e1",
+    "Cost": 345
+  },
+  {
+    "name": "C_Blue2",
+    "strength": 56,
+    "mass": 2816,
+    "colour": "#1524f0",
+    "Cost": 345
+  },
+  {
+    "name": "C_Red",
+    "strength": 56,
+    "mass": 2816,
+    "colour": "#b01515",
+    "Cost": 345
+  },
+  {
+    "name": "C_Yellow",
+    "strength": 56,
+    "mass": 2816,
+    "colour": "#ccc312",
+    "Cost": 345
+  },
+  {
+    "name": "C_Green",
+    "strength": 56,
+    "mass": 2816,
+    "colour": "#07921f",
+    "Cost": 345
+  },
+  {
+    "name": "C_Orange",
+    "strength": 56,
+    "mass": 2816,
+    "colour": "#cc852d",
+    "Cost": 345
+  },
+  {
+    "name": "C_Pink",
+    "strength": 56,
+    "mass": 2816,
+    "colour": "#d712fd",
+    "Cost": 345
+  },
+  {
+    "name": "Iron",
+    "strength": 82,
+    "mass": 3277,
+    "colour": "#808090",
+    "Cost": 362
+  },
+  {
+    "name": "Weight",
+    "strength": 10000,
+    "mass": 800000,
+    "colour": "#9E7653",
+    "Cost": 1
+  },
+  {
+    "name": "Wooden Hull",
+    "strength": 63,
+    "mass": 2145,
+    "colour": "#905020",
+    "isHull": true,
+    "Cost": 31
+  },
+  {
+    "name": "Wood",
+    "strength":58,
+    "mass": 1955,
+    "colour": "#E0D8C0",
+    "Cost": 25
+  },
+  {
+    "name": "Titanium Hull",
+    "strength": 95,
+    "mass": 2759,
+    "colour": "#565663",
+    "isHull": true,
+    "Cost": 35420
+  },
+  {
+    "name": "Titanium",
+    "strength": 85,
+    "mass": 2580,
+    "colour": "#787896",
+    "Cost": 34650
+  },
+  {
+    "name": "Cardboard Hull",
+    "strength": 19,
+    "mass": 1480,
+    "colour": "#A88848",
+    "isHull": true,
+    "Cost": 3
+  },
+  {
+    "name": "Cardboard",
+    "strength": 16,
+    "mass": 1260,
+    "colour": "#C1A46A",
+    "Cost": 2
+  },
+  {
+    "name": "Rope",
+    "strength": 42,
+    "mass": 650,
+    "colour": "#000000",
+    "isRope": true,
+    "Cost": 29
+  },
+  {
+    "name": "SH_Red",
+    "strength": 105,
+    "mass": 3625,
+    "colour": "#A71000",
+    "isHull": true,
+    "Cost": 6988
+  },
+  {
+    "name": "S_Red",
+    "strength": 100,
+    "mass": 3345,
+    "colour": "#D80E00",
+    "Cost": 5909
+  },
+  {
+    "name": "IH_Red",
+    "strength": 90,
+    "mass": 3457,
+    "colour": "#840E00",
+    "isHull": true,
+    "Cost": 367
+  },
+  {
+    "name": "I_Red",
+    "strength": 82,
+    "mass": 3277,
+    "colour": "#9E0F00",
+    "Cost": 362
+  },
+  {
+    "name": "WH_Red",
+    "strength": 63,
+    "mass": 2145,
+    "colour": "#9E2E0C",
+    "isHull": true,
+    "Cost": 31
+  },
+  {
+    "name": "W_Red",
+    "strength": 58,
+    "mass": 1955,
+    "colour": "#B51B1B",
+    "Cost": 25
+  },
+  {
+    "name": "TH_Red",
+    "strength": 105,
+    "mass": 2759,
+    "colour": "#8F1F00",
+    "isHull": true,
+    "Cost": 35420
+  },
+  {
+    "name": "T_Red",
+    "strength": 90,
+    "mass": 2580,
+    "colour": "#BE1400",
+    "Cost": 34650
+  },
+  {
+    "name": "SH_Yel",
+    "strength": 105,
+    "mass": 3625,
+    "colour": "#A27A00",
+    "isHull": true,
+    "Cost": 6988
+  },
+  {
+    "name": "S_Yel",
+    "strength": 100,
+    "mass": 3345,
+    "colour": "#D29800",
+    "Cost": 5909
+  },
+  {
+    "name": "IH_Yel",
+    "strength": 90,
+    "mass": 3457,
+    "colour": "#806200",
+    "isHull": true,
+    "Cost": 367
+  },
+  {
+    "name": "I_Yel",
+    "strength": 82,
+    "mass": 3277,
+    "colour": "#997200",
+    "Cost": 362
+  },
+  {
+    "name": "WH_Yel",
+    "strength": 63,
+    "mass": 2145,
+    "colour": "#998B0A",
+    "isHull": true,
+    "Cost": 31
+  },
+  {
+    "name": "W_Yel",
+    "strength": 58,
+    "mass": 1955,
+    "colour": "#AF7C18",
+    "Cost": 25
+  },
+  {
+    "name": "TH_Yel",
+    "strength": 105,
+    "mass": 2759,
+    "colour": "#8B7A00",
+    "isHull": true,
+    "Cost": 35420
+  },
+  {
+    "name": "T_Yel",
+    "strength": 90,
+    "mass": 2580,
+    "colour": "#B88D00",
+    "Cost": 34650
+  },
+  {
+    "name": "SH_Gre",
+    "strength": 105,
+    "mass": 3625,
+    "colour": "#5A9B00",
+    "isHull": true,
+    "Cost": 6988
+  },
+  {
+    "name": "S_Gre",
+    "strength": 100,
+    "mass": 3345,
+    "colour": "#7BC800",
+    "Cost": 5909
+  },
+  {
+    "name": "IH_Gre",
+    "strength": 90,
+    "mass": 3457,
+    "colour": "#467B00",
+    "isHull": true,
+    "Cost": 367
+  },
+  {
+    "name": "I_Gre",
+    "strength": 82,
+    "mass": 3277,
+    "colour": "#569200",
+    "Cost": 362
+  },
+  {
+    "name": "WH_Gre",
+    "strength": 63,
+    "mass": 2145,
+    "colour": "#439206",
+    "isHull": true,
+    "Cost": 31
+  },
+  {
+    "name": "W_Gre",
+    "strength": 58,
+    "mass": 1955,
+    "colour": "#78A814",
+    "Cost": 25
+  },
+  {
+    "name": "TH_Gre",
+    "strength": 105,
+    "mass": 2759,
+    "colour": "#3C8400",
+    "isHull": true,
+    "Cost": 35420
+  },
+  {
+    "name": "T_Gre",
+    "strength": 90,
+    "mass": 2580,
+    "colour": "#66B100",
+    "Cost": 34650
+  },
+  {
+    "name": "SH_Blue",
+    "strength": 105,
+    "mass": 3625,
+    "colour": "#008A95",
+    "isHull": true,
+    "Cost": 6988
+  },
+  {
+    "name": "S_Blue",
+    "strength": 100,
+    "mass": 3345,
+    "colour": "#00B6BF",
+    "Cost": 5909
+  },
+  {
+    "name": "IH_Blue",
+    "strength": 90,
+    "mass": 3457,
+    "colour": "#006A76",
+    "isHull": true,
+    "Cost": 367
+  },
+  {
+    "name": "I_Blue",
+    "strength": 82,
+    "mass": 3277,
+    "colour": "#00818C",
+    "Cost": 362
+  },
+  {
+    "name": "WH_Blue",
+    "strength": 63,
+    "mass": 2145,
+    "colour": "#036E8C",
+    "isHull": true,
+    "Cost": 31
+  },
+  {
+    "name": "W_Blue",
+    "strength": 58,
+    "mass": 1955,
+    "colour": "#10A19D",
+    "Cost": 25
+  },
+  {
+    "name": "TH_Blue",
+    "strength": 105,
+    "mass": 2759,
+    "colour": "#00657E",
+    "isHull": true,
+    "Cost": 35420
+  },
+  {
+    "name": "T_Blue",
+    "strength": 90,
+    "mass": 2580,
+    "colour": "#009BA9",
+    "Cost": 34650
+  },
+  {
+    "name": "SH_Blue2",
+    "strength": 105,
+    "mass": 3625,
+    "colour": "#22437B",
+    "isHull": true,
+    "Cost": 6988
+  },
+  {
+    "name": "S_Blue2",
+    "strength": 100,
+    "mass": 3345,
+    "colour": "#2D58A0",
+    "Cost": 5909
+  },
+  {
+    "name": "IH_Blue2",
+    "strength": 90,
+    "mass": 3457,
+    "colour": "#1B3261",
+    "isHull": true,
+    "Cost": 367
+  },
+  {
+    "name": "I_Blue2",
+    "strength": 82,
+    "mass": 3277,
+    "colour": "#203E74",
+    "Cost": 362
+  },
+  {
+    "name": "WH_Blue2",
+    "strength": 63,
+    "mass": 2145,
+    "colour": "#1E3070",
+    "isHull": true,
+    "Cost": 31
+  },
+  {
+    "name": "W_Blue2",
+    "strength": 58,
+    "mass": 1955,
+    "colour": "#325989",
+    "Cost": 25
+  },
+  {
+    "name": "TH_Blue2",
+    "strength": 105,
+    "mass": 2759,
+    "colour": "#1A2C66",
+    "isHull": true,
+    "Cost": 35420
+  },
+  {
+    "name": "T_Blue2",
+    "strength": 90,
+    "mass": 2580,
+    "colour": "#26498C",
+    "Cost": 34650
+  },
+  {
+    "name": "SH_Pink",
+    "strength": 105,
+    "mass": 3625,
+    "colour": "#A900A7",
+    "isHull": true,
+    "Cost": 6988
+  },
+  {
+    "name": "S_Pink",
+    "strength": 100,
+    "mass": 3345,
+    "colour": "#D100D6",
+    "Cost": 5909
+  },
+  {
+    "name": "IH_Pink",
+    "strength": 90,
+    "mass": 3457,
+    "colour": "#860080",
+    "isHull": true,
+    "Cost": 367
+  },
+  {
+    "name": "I_Pink",
+    "strength": 82,
+    "mass": 3277,
+    "colour": "#9F009C",
+    "Cost": 362
+  },
+  {
+    "name": "WH_Pink",
+    "strength": 63,
+    "mass": 2145,
+    "colour": "#A30085",
+    "isHull": true,
+    "Cost": 31
+  },
+  {
+    "name": "W_Pink",
+    "strength": 58,
+    "mass": 1955,
+    "colour": "#9B00AF",
+    "Cost": 25
+  },
+  {
+    "name": "TH_Pink",
+    "strength": 105,
+    "mass": 2759,
+    "colour": "#93007B",
+    "isHull": true,
+    "Cost": 35420
+  },
+  {
+    "name": "T_Pink",
+    "strength": 90,
+    "mass": 2580,
+    "colour": "#BF00BA",
+    "Cost": 34650
+  },
+  {
+    "name": "SH_Orange",
+    "strength": 105,
+    "mass": 3625,
+    "colour": "#D45B00",
+    "isHull": true,
+    "Cost": 6988
+  },
+  {
+    "name": "S_Orange",
+    "strength": 100,
+    "mass": 3345,
+    "colour": "#F26500",
+    "Cost": 5909
+  },
+  {
+    "name": "IH_Orange",
+    "strength": 105,
+    "mass": 1263,
+    "colour": "#A84F00",
+    "isHull": true,
+    "Cost": 367
+  },
+  {
+    "name": "I_Orange",
+    "strength": 82,
+    "mass": 3277,
+    "colour": "#C85800",
+    "Cost": 362
+  },
+  {
+    "name": "WH_Orange",
+    "strength": 63,
+    "mass": 2145,
+    "colour": "#CE8100",
+    "isHull": true,
+    "Cost": 31
+  },
+  {
+    "name": "W_Orange",
+    "strength": 58,
+    "mass": 1955,
+    "colour": "#DE4000",
+    "Cost": 25
+  },
+  {
+    "name": "TH_Orange",
+    "strength": 105,
+    "mass": 2759,
+    "colour": "#BA7100",
+    "isHull": true,
+    "Cost": 35420
+  },
+  {
+    "name": "T_Orange",
+    "strength": 90,
+    "mass": 2580,
+    "colour": "#EF6B00",
+    "Cost": 34650
+  },
+  {
+    "name": "DB_S_Red",
+    "strength": 240,
+    "mass": 5000,
+    "colour": "#A21000",
+    "isHull": true,
+    "Cost": 11880
+  },
+  {
+    "name": "DB_I_Red",
+    "strength": 200,
+    "mass": 4800,
+    "colour": "#7E0C00",
+    "isHull": true,
+    "Cost": 8240
+  },
+  {
+    "name": "DB_T_Red",
+    "strength": 210,
+    "mass": 4200,
+    "colour": "#842005",
+    "isHull": true,
+    "Cost": 60214
+  },
+  {
+    "name": "Glass_Int",
+    "strength": 63,
+    "mass": 1100,
+    "colour": "#E5FFFF",
+    "Cost": 41
+  },
+  {
+    "name": "Glass_Ext",
+    "strength": 82,
+    "mass": 1200,
+    "colour": "#C1FFFF",
+    "isHull": true,
+    "Cost": 41
+  },
+  {
+    "name": "Carbon Hull",
+    "strength": 192,
+    "mass": 1700,
+    "colour": "#171717",
+    "isHull": true,
+    "Cost": 106120
+  },
+  {
+    "name": "Carbon",
+    "strength": 185,
+    "mass": 2250,
+    "colour": "#191919",
+    "Cost": 101920
+  },
+  {
+    "name": "BS Hull",
+    "strength": 105,
+    "mass": 2125,
+    "colour": "#111111",
+    "isHull": true,
+    "Cost": 6988
+  },
+  {
+    "name": "Black Steel",
+    "strength": 100,
+    "mass": 3345,
+    "colour": "#262626",
+    "Cost": 5909
+  },
+  {
+    "name": "DB_W_Red",
+    "strength": 128,
+    "mass": 4000,
+    "colour": "#9B3012",
+    "isHull": true,
+    "Cost": 53
+  }
+]
