@@ -1,15 +1,13 @@
 var isGameOver;
-var enemy, enemy2
+var enemy, enemy2;
 
-function preload(){
-    
-}
+
 
 
 
 
 function setup() {
-    createCanvas(450, 350);
+    createCanvas(400, 300);
     player = createSprite(width/2, height-25, 50, 50);
     enemy = createSprite(width/1, random(5, height-5), 30,30);
     enemy2 = createSprite(width/1, random(5, height-5), 30,30);
